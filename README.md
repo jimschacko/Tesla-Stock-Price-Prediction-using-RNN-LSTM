@@ -14,6 +14,6 @@ Low: Tesla Stock price lowest price for the given date Tesla Stock price lowest 
 
 adj Close: Adjusted stock closing price of Tesla after taking dividends, stock splits, and new stock offerings into account.
 
-Volume: Amount of an Tesla Stock that changed hands over the course of the trading d
+Volume: Amount of an Tesla Stock that changed hands over the course of the trading day.
 
 Source: https://finance.yahoo.com
